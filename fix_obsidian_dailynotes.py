@@ -8,8 +8,8 @@ For every file named "YYYY-MM-DD.md" or "YYYY-MM-DD Some title.md":
         and rename the file to just "YYYY-MM-DD.md".
 
 Usage:
-    python3 fix_daily_notes.py "/path/to/Daily Notes"            # dry run (default)
-    python3 fix_daily_notes.py "/path/to/Daily Notes" --apply    # make changes
+    python3 fix_obsidian_dailynotes.py "/path/to/Daily Notes"            # dry run (default)
+    python3 fix_obsidian_dailynotes.py "/path/to/Daily Notes" --apply    # make changes
 
 Notes:
   * Never overwrites an existing non-empty `title` that differs from the
