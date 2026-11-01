@@ -1,4 +1,4 @@
-# Obsidian Daily Notes Title Normalizer
+# Obsidian Daily Notes Title Fixer
 
 This script converts titled Obsidian daily notes such as:
 
@@ -190,5 +190,4 @@ than allowing an automated rename to change its metadata.
 
 ## License
 
-No license has been specified for this project. Add a license before
-redistributing the script.
+Uses MIT license.
